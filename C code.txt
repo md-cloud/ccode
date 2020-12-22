@@ -2,4 +2,6 @@ int x;
 cout<<"Enter the digit";
 cin>> x;
 int mul= 5 * x; 
+cout<<" branch 1 patch";
+cout<<"adding some files";
 cout<<"New Number is: "+ mul;
