@@ -1,0 +1,5 @@
+int x;
+cout<<"Enter the digit";
+cin>> x;
+int mul= 5 * x; 
+cout<<"New Number is: "+ mul;
