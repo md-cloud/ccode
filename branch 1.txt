@@ -1,0 +1,8 @@
+int x;
+cout<<"Enter the digit";
+cin>> x;
+
+int mul= 5 * x; 
+cout<<"Hello from branch 1"
+
+cout<<"New Number is: "+ mul;
